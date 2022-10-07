@@ -1,16 +1,16 @@
-### Hi there 👋
+### Oi, Sejam bem vindos  👋
 
-<!--
-**washingtoncaraujo/washingtoncaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Me chamo Washington Carlos Araújo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sou estudante de Análise e Desenvolvimento de Sistema na Faculdade Unilavras
+- Aprendemos tudo necessário para a criação de softwares
+- Aqui você encontrará meus estudos e desenvolvimentos na area de programação
+- Sintam-se em casa.
+
+
+
+e-mai: washingtonaraujo@souunilavras.com
+
+## Dizeres: Acessibilidade é o que faz a excelência de seu projeto !
+
