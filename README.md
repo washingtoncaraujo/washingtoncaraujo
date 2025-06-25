@@ -14,7 +14,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?washingtoncaraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 -->
-e-mai: wwcabeca@hotmail.com
+e-mai: wwcabeca@gmail.com
 
 ## Dizeres: Acessibilidade é o que faz a excelência de seu projeto !
 
